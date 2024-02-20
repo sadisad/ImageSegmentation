@@ -1,8 +1,5 @@
 # ImageSegmentation
  
-## Latar Belakang
-Image segmentation adalah tugas krusial dalam computer vision, yang bertujuan untuk membagi sebuah gambar menjadi berbagai wilayah atau objek yang bermakna dan dapat dibedakan. Tugas ini memiliki peran penting dalam berbagai aplikasi, seperti pengenalan, pelacakan, dan deteksi objek, pengolahan citra medis, dan robotika.
-Semantic segmentation adalah salah satu metode yang digunakan untuk Self Driving Car.
 ![0_WCg2G3SbI_BsGDc0](https://github.com/sadisad/ImageSegmentation/assets/61278337/ddf669b6-9b16-4c6d-a518-3b5137f1261c)
 
 
